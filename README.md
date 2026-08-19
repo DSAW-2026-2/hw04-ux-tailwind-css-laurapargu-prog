@@ -45,3 +45,8 @@ The pipeline will check:
 - ✅ Tailwind used correctly, dark mode works, wireframes complete (reviewed by Claude)
 
 > **Submission rule:** If it is not deployed and public, it cannot be graded.
+
+
+
+-----Name: Laura Sofia Parra Gutierrez 
+-----Deployment:  https://dsaw-2026-2.github.io/hw04-ux-tailwind-css-laurapargu-prog/
